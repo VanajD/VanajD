@@ -1,0 +1,40 @@
+.a{
+    color:red;
+    background: blue;
+    float: left;
+    width: 33.3%;
+    border: 2px solid magenta;
+  }
+  .b{
+    color:red;
+    background: blue;
+    margin:0% 15% 0% 33.3%;
+    width: 33.3%;
+    float: left;
+    border: 2px solid magenta;
+  }
+  .c{
+    color:red;
+    background: blue;
+    float: right;
+    width: 33.3%;
+    border: 2px solid magenta;
+  }
+  .x{
+    width: 80%;
+    float: left;
+    font-family: Times New Roman;
+    text-align: center;
+    box-shadow: 3px 3px 3px deeppink;
+  }
+  .y{
+    border: 2px solid blue;
+    margin:7% 1% 0% 3%;
+    float:left;
+    width: 50%;
+    font-family: Sans-Serif;
+    text-align: center;
+    box-shadow: 3px 3px 3px papayawhip;
+    color: orchid;
+    background-color: mediumvioletred;
+  }
